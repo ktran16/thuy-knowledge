@@ -17,4 +17,4 @@ Kho tri thức thực dụng hằng ngày, mỗi ngày một file, bổ sung t�
 - [2026-08-21](knowledge/2026-08/2026-08-21.md) — thiết kế nội thất, bơi lội, tiếng Phần Lan, làm bánh, tiếng Trung Quốc
 - [2026-08-22](knowledge/2026-08/2026-08-22.md) — sơ cấp cứu, nấu ăn, mã Morse, pha chế barista, nhiếp ảnh
 - [2026-08-23](knowledge/2026-08/2026-08-23.md) — ngôn ngữ ký hiệu, tiếng Trung Quốc, thiết kế nội thất, bơi lội, tiếng Phần Lan
-- [2026-08-24](knowledge/2026-08/2026-08-24.md) — làm bánh, sơ cấp cứu
+- [2026-08-24](knowledge/2026-08/2026-08-24.md) — làm bánh, sơ cấp cứu, nhiếp ảnh
