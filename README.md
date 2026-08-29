@@ -22,4 +22,4 @@ Kho tri thức thực dụng hằng ngày, mỗi ngày một file, bổ sung t�
 - [2026-08-26](knowledge/2026-08/2026-08-26.md) — tiếng Phần Lan, làm bánh, sơ cấp cứu, nhiếp ảnh, pha chế barista
 - [2026-08-27](knowledge/2026-08/2026-08-27.md) — mã Morse, nấu ăn, bơi lội, ngôn ngữ ký hiệu, tiếng Trung Quốc
 - [2026-08-28](knowledge/2026-08/2026-08-28.md) — thiết kế nội thất, tiếng Phần Lan, làm bánh, sơ cấp cứu, nhiếp ảnh
-- [2026-08-29](knowledge/2026-08/2026-08-29.md) — pha chế barista, tiếng Trung Quốc, mã Morse, nấu ăn, bơi lội
+- [2026-08-29](knowledge/2026-08/2026-08-29.md) — pha chế barista, tiếng Trung Quốc, mã Morse, nấu ăn, bơi lội, ngôn ngữ ký hiệu
