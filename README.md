@@ -4,6 +4,10 @@ Kho tri thức thực dụng hằng ngày, mỗi ngày một file, bổ sung t�
 
 ## Mục lục
 
+### 2026-09
+
+- [2026-09-01](knowledge/2026-09/2026-09-01.md) — nấu ăn
+
 ### 2026-08
 
 - [2026-08-13](knowledge/2026-08/2026-08-13.md) — nấu ăn, sơ cấp cứu, mã Morse, pha chế barista
