@@ -4,6 +4,10 @@ Kho tri thức thực dụng hằng ngày, mỗi ngày một file, bổ sung t�
 
 ## Mục lục
 
+### 2026-10
+
+- [2026-10-01](knowledge/2026-10/2026-10-01.md) — nấu ăn
+
 ### 2026-09
 
 - [2026-09-30](knowledge/2026-09/2026-09-30.md) — thiết kế nội thất, tiếng Phần Lan, ngôn ngữ ký hiệu, sơ cấp cứu, nhiếp ảnh
