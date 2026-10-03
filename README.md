@@ -6,7 +6,7 @@ Kho tri thức thực dụng hằng ngày, mỗi ngày một file, bổ sung t�
 
 ### 2026-10
 
-- [2026-10-03](knowledge/2026-10/2026-10-03.md) — sơ cấp cứu, pha chế barista, bơi lội, nấu ăn
+- [2026-10-03](knowledge/2026-10/2026-10-03.md) — sơ cấp cứu, pha chế barista, bơi lội, nấu ăn, làm bánh
 - [2026-10-02](knowledge/2026-10/2026-10-02.md) — tiếng Trung Quốc, tiếng Phần Lan, thiết kế nội thất, ngôn ngữ ký hiệu, nhiếp ảnh
 - [2026-10-01](knowledge/2026-10/2026-10-01.md) — nấu ăn, bơi lội, làm bánh, mã Morse, pha chế barista
 
