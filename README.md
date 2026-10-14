@@ -6,7 +6,7 @@ Kho tri thức thực dụng hằng ngày, mỗi ngày một file, bổ sung t�
 
 ### 2026-10
 
-- [2026-10-14](knowledge/2026-10/2026-10-14.md) — nhiếp ảnh, bơi lội, mã Morse
+- [2026-10-14](knowledge/2026-10/2026-10-14.md) — nhiếp ảnh, bơi lội, mã Morse, ngôn ngữ ký hiệu
 - [2026-10-13](knowledge/2026-10/2026-10-13.md) — tiếng Phần Lan, nấu ăn, tiếng Trung Quốc, thiết kế nội thất, sơ cấp cứu
 - [2026-10-12](knowledge/2026-10/2026-10-12.md) — bơi lội, mã Morse, ngôn ngữ ký hiệu, làm bánh, pha chế barista
 - [2026-10-11](knowledge/2026-10/2026-10-11.md) — tiếng Trung Quốc, nấu ăn, thiết kế nội thất, nhiếp ảnh, sơ cấp cứu
