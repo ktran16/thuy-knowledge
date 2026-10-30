@@ -6,7 +6,7 @@ Kho tri thức thực dụng hằng ngày, mỗi ngày một file, bổ sung t�
 
 ### 2026-10
 
-- [2026-10-30](knowledge/2026-10/2026-10-30.md) — tiếng Trung Quốc
+- [2026-10-30](knowledge/2026-10/2026-10-30.md) — tiếng Trung Quốc, nhiếp ảnh
 - [2026-10-29](knowledge/2026-10/2026-10-29.md) — pha chế barista, ngôn ngữ ký hiệu, thiết kế nội thất, sơ cấp cứu, bơi lội
 - [2026-10-28](knowledge/2026-10/2026-10-28.md) — mã Morse, nấu ăn, tiếng Phần Lan, làm bánh, tiếng Trung Quốc
 - [2026-10-27](knowledge/2026-10/2026-10-27.md) — sơ cấp cứu, bơi lội, thiết kế nội thất, nhiếp ảnh, ngôn ngữ ký hiệu
