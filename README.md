@@ -4,6 +4,10 @@ Kho tri thức thực dụng hằng ngày, mỗi ngày một file, bổ sung t�
 
 ## Mục lục
 
+### 2026-11
+
+- [2026-11-01](knowledge/2026-11/2026-11-01.md) — Ngôn ngữ ký hiệu
+
 ### 2026-10
 
 - [2026-10-31](knowledge/2026-10/2026-10-31.md) — Làm bánh, Pha chế barista, Bơi lội, Tiếng Trung Quốc, Sơ cấp cứu
