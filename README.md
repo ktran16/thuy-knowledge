@@ -6,7 +6,7 @@ Kho tri thức thực dụng hằng ngày, mỗi ngày một file, bổ sung t�
 
 ### 2026-11
 
-- [2026-11-05](knowledge/2026-11/2026-11-05.md) — Bơi lội, Sơ cấp cứu, Tiếng Trung Quốc
+- [2026-11-05](knowledge/2026-11/2026-11-05.md) — Bơi lội, Sơ cấp cứu, Tiếng Trung Quốc, Ngôn ngữ ký hiệu
 - [2026-11-04](knowledge/2026-11/2026-11-04.md) — Nhiếp ảnh, Nấu ăn, Pha chế barista, Làm bánh
 - [2026-11-03](knowledge/2026-11/2026-11-03.md) — Tiếng Trung Quốc, Ngôn ngữ ký hiệu, Thiết kế nội thất, Tiếng Phần Lan, Mã Morse
 - [2026-11-02](knowledge/2026-11/2026-11-02.md) — Nấu ăn, Pha chế barista, Làm bánh, Bơi lội, Sơ cấp cứu
