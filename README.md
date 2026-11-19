@@ -6,7 +6,7 @@ Kho tri thức thực dụng hằng ngày, mỗi ngày một file, bổ sung t�
 
 ### 2026-11
 
-- [2026-11-19](knowledge/2026-11/2026-11-19.md) — Tiếng Phần Lan
+- [2026-11-19](knowledge/2026-11/2026-11-19.md) — Tiếng Phần Lan, Nấu ăn
 - [2026-11-18](knowledge/2026-11/2026-11-18.md) — Làm bánh, Ngôn ngữ ký hiệu, Pha chế barista, Bơi lội, Thiết kế nội thất
 - [2026-11-17](knowledge/2026-11/2026-11-17.md) — Tiếng Trung Quốc, Sơ cấp cứu, Nấu ăn, Mã Morse, Nhiếp ảnh
 - [2026-11-16](knowledge/2026-11/2026-11-16.md) — Ngôn ngữ ký hiệu, Làm bánh, Thiết kế nội thất, Bơi lội, Tiếng Phần Lan
